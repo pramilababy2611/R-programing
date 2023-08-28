@@ -1,0 +1,7 @@
+a=c(3.6,2.6,9.6,4.7)
+b=c("Red","Green","White","Blue")
+c=c(TRUE,FALSE,TRUE,FALSE)
+cat(a,"\nType : ",typeof(r),"\n")
+cat(b,"\nType : ",typeof(b),"\n")
+cat(c,"\nType : ",typeof(c))
+
