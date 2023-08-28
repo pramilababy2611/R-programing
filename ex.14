@@ -1,0 +1,2 @@
+data <- read.csv(file="C:\\Users\\user\\Documents\\aaa.csv")
+print(data)
